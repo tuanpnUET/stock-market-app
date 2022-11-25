@@ -1,0 +1,3603 @@
+[
+    {},
+    {
+        "organCode": "10780",
+        "ticker": "VTZ",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sản xuất và Thương mại Nhựa Việt Thành",
+        "organShortName": "Nhựa Việt Thành"
+    },
+    {
+        "organCode": "12110",
+        "ticker": "HMR",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty cổ phần Đá Hoàng Mai",
+        "organShortName": "Đá Hoàng Mai"
+    },
+    {
+        "organCode": "AAV",
+        "ticker": "AAV",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần AAV Group",
+        "organShortName": "Việt Tiên Sơn Địa ốc"
+    },
+    {
+        "organCode": "ACM",
+        "ticker": "ACM",
+        "comGroupCode": "UpcomIndex",
+        "icbCode": "1775",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Khoáng sản Á Cường",
+        "organShortName": "Tập đoàn Khoáng sản Á Cường"
+    },
+    {
+        "organCode": "ADC",
+        "ticker": "ADC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Mĩ thuật và Truyền thông",
+        "organShortName": "Mĩ thuật và Truyền thông"
+    },
+    {
+        "organCode": "AGPORT",
+        "ticker": "CAG",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Cảng An Giang",
+        "organShortName": "Cảng An Giang"
+    },
+    {
+        "organCode": "ALT",
+        "ticker": "ALT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Văn hóa Tân Bình",
+        "organShortName": "Văn hóa Tân Bình"
+    },
+    {
+        "organCode": "AMC",
+        "ticker": "AMC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1775",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Khoáng sản Á Châu",
+        "organShortName": "Khoáng sản Á Châu"
+    },
+    {
+        "organCode": "AME",
+        "ticker": "AME",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2737",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty cổ phần Alphanam E&amp;C",
+        "organShortName": "Cơ điện Alphanam"
+    },
+    {
+        "organCode": "AMV",
+        "ticker": "AMV",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "4535",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sản xuất Kinh doanh Dược và Trang thiết bị Y tế Việt Mỹ",
+        "organShortName": "Dược-TB Y tế Việt Mỹ"
+    },
+    {
+        "organCode": "API",
+        "ticker": "API",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Châu Á - Thái Bình Dương",
+        "organShortName": "APEC INVESTMENT"
+    },
+    {
+        "organCode": "APP",
+        "ticker": "APP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Phát triển Phụ gia và Sản phẩm dầu mỏ",
+        "organShortName": "Phụ gia và SP Dầu mỏ"
+    },
+    {
+        "organCode": "APS",
+        "ticker": "APS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CK",
+        "organName": "Công ty Cổ phần Chứng khoán Châu Á - Thái Bình Dương",
+        "organShortName": "CK Châu Á - TBD"
+    },
+    {
+        "organCode": "ARM",
+        "ticker": "ARM",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2797",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xuất nhập khẩu Hàng không",
+        "organShortName": "XNK Hàng không"
+    },
+    {
+        "organCode": "ATS",
+        "ticker": "ATS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Dược phẩm Atesco",
+        "organShortName": "ATESCO.,JSC"
+    },
+    {
+        "organCode": "BAONGOCCORP",
+        "ticker": "BNA",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Sản xuất Bảo Ngọc",
+        "organShortName": "Đầu tư SX Bảo Ngọc"
+    },
+    {
+        "organCode": "BBS",
+        "ticker": "BBS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2723",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần VICEM Bao bì Bút Sơn",
+        "organShortName": "Bao bì Xi măng Bút Sơn"
+    },
+    {
+        "organCode": "BCC",
+        "ticker": "BCC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xi măng Bỉm Sơn",
+        "organShortName": "Xi măng Bỉm Sơn"
+    },
+    {
+        "organCode": "BDB",
+        "ticker": "BDB",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sách và Thiết bị Bình Định",
+        "organShortName": "Sách Bình Định"
+    },
+    {
+        "organCode": "BED",
+        "ticker": "BED",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sách và Thiết bị trường học Đà Nẵng",
+        "organShortName": "Sách Đà Nẵng"
+    },
+    {
+        "organCode": "BII",
+        "ticker": "BII",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Louis Land",
+        "organShortName": "Louis Land"
+    },
+    {
+        "organCode": "BKC",
+        "ticker": "BKC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1775",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Khoáng sản Bắc Kạn",
+        "organShortName": "Khoáng sản Bắc Kạn"
+    },
+    {
+        "organCode": "BLF",
+        "ticker": "BLF",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3573",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thủy sản Bạc Liêu",
+        "organShortName": "Thủy sản Bạc Liêu"
+    },
+    {
+        "organCode": "BPC",
+        "ticker": "BPC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2723",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Vicem Bao bì Bỉm Sơn",
+        "organShortName": "Bao bì Bỉm Sơn"
+    },
+    {
+        "organCode": "BSC",
+        "ticker": "BSC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5379",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Dịch vụ Bến Thành",
+        "organShortName": "Dịch vụ Bến Thành"
+    },
+    {
+        "organCode": "BST",
+        "ticker": "BST",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sách và Thiết bị Bình Thuận",
+        "organShortName": "Sách và Thiết bị Bình Thuận"
+    },
+    {
+        "organCode": "BTS",
+        "ticker": "BTS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xi măng VICEM Bút Sơn",
+        "organShortName": "Xi măng Bút Sơn"
+    },
+    {
+        "organCode": "BTW",
+        "ticker": "BTW",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Cấp nước Bến Thành",
+        "organShortName": "Cấp nước Bến Thành"
+    },
+    {
+        "organCode": "BVS",
+        "ticker": "BVS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CK",
+        "organName": "Công ty Cổ phần Chứng khoán Bảo Việt",
+        "organShortName": "Chứng khoán Bảo Việt"
+    },
+    {
+        "organCode": "BXH",
+        "ticker": "BXH",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2723",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần VICEM Bao bì Hải Phòng",
+        "organShortName": "Bao bì Xi măng HP"
+    },
+    {
+        "organCode": "C1369",
+        "ticker": "C69",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây dựng 1369",
+        "organShortName": "Xây dựng1369"
+    },
+    {
+        "organCode": "C92",
+        "ticker": "C92",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây dựng và Đầu tư 492",
+        "organShortName": "Xây dựng và Đầu tư 492"
+    },
+    {
+        "organCode": "CAN",
+        "ticker": "CAN",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đồ hộp Hạ Long",
+        "organShortName": "Đồ hộp Hạ Long"
+    },
+    {
+        "organCode": "CAP",
+        "ticker": "CAP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1737",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Lâm Nông sản Thực phẩm Yên Bái",
+        "organShortName": "Lâm nông sản Yên Bái"
+    },
+    {
+        "organCode": "CCLTD",
+        "ticker": "VSM",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Container Miền Trung",
+        "organShortName": "Container Miền Trung"
+    },
+    {
+        "organCode": "CCR",
+        "ticker": "CCR",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Cảng Cam Ranh",
+        "organShortName": "Cảng Cam Ranh"
+    },
+    {
+        "organCode": "CEO",
+        "ticker": "CEO",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn C.E.O",
+        "organShortName": "Tập đoàn CEO"
+    },
+    {
+        "organCode": "CII",
+        "ticker": "CII",
+        "comGroupCode": "VNINDEX",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh",
+        "organShortName": "Hạ tầng Kỹ thuật TP.HCM"
+    },
+    {
+        "organCode": "CJC",
+        "ticker": "CJC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2737",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Cơ điện Miền Trung",
+        "organShortName": "Cơ điện Miền Trung"
+    },
+    {
+        "organCode": "CKV",
+        "ticker": "CKV",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "9578",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần CokyVina",
+        "organShortName": "CokyVina"
+    },
+    {
+        "organCode": "CMC",
+        "ticker": "CMC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư CMC",
+        "organShortName": "Đầu tư CMC"
+    },
+    {
+        "organCode": "CMS",
+        "ticker": "CMS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2793",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn CMH Việt Nam",
+        "organShortName": "CMH Group"
+    },
+    {
+        "organCode": "CPC",
+        "ticker": "CPC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thuốc sát trùng Cần Thơ",
+        "organShortName": "Thuốc sát trùng Cần Thơ"
+    },
+    {
+        "organCode": "CRAC",
+        "ticker": "CIA",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ Phần Dịch Vụ Sân Bay Quốc Tế Cam Ranh",
+        "organShortName": "DV Sân Bay Cam Ranh"
+    },
+    {
+        "organCode": "CSC",
+        "ticker": "CSC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn COTANA",
+        "organShortName": "Tập đoàn COTANA"
+    },
+    {
+        "organCode": "CTB",
+        "ticker": "CTB",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Chế tạo Bơm Hải Dương",
+        "organShortName": "Bơm Hải Dương"
+    },
+    {
+        "organCode": "CTC",
+        "ticker": "CTC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5759",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Hoàng Kim Tây Nguyên",
+        "organShortName": "Tập đoàn Hoàng Kim Tây Nguyên"
+    },
+    {
+        "organCode": "CTG",
+        "ticker": "CTG",
+        "comGroupCode": "VNINDEX",
+        "icbCode": "8355",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "NH",
+        "organName": "Ngân hàng Thương mại Cổ phần Công thương Việt Nam",
+        "organShortName": "VietinBank"
+    },
+    {
+        "organCode": "CTP",
+        "ticker": "CTP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3537",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Minh Khang Capital Trading Public",
+        "organShortName": "Minh Khang Capital Trading Public"
+    },
+    {
+        "organCode": "CTT",
+        "ticker": "CTT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Chế tạo máy Vinacomin",
+        "organShortName": "Chế tạo máy Vinacomin"
+    },
+    {
+        "organCode": "CTX",
+        "ticker": "CTX",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Tổng Công ty Cổ phần Đầu tư Xây dựng và Thương mại Việt Nam",
+        "organShortName": "CONSTREXIM"
+    },
+    {
+        "organCode": "CVN",
+        "ticker": "CVN",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "4535",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Vinam",
+        "organShortName": "Vinam Group"
+    },
+    {
+        "organCode": "CX8",
+        "ticker": "CX8",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư và Xây lắp Constrexim số 8",
+        "organShortName": "Constrexim số 8"
+    },
+    {
+        "organCode": "D11",
+        "ticker": "D11",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Địa ốc 11",
+        "organShortName": "Địa ốc 11"
+    },
+    {
+        "organCode": "DAD",
+        "ticker": "DAD",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư và Phát triển Giáo dục Đà Nẵng",
+        "organShortName": "Phát triển GD Đà Nẵng"
+    },
+    {
+        "organCode": "DAE",
+        "ticker": "DAE",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sách Giáo dục tại TP.Đà Nẵng",
+        "organShortName": "Sách Giáo dục Đà Nẵng"
+    },
+    {
+        "organCode": "DC2",
+        "ticker": "DC2",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Phát triển - Xây dựng (DIC) số 2",
+        "organShortName": "DIC Số 2"
+    },
+    {
+        "organCode": "DHP",
+        "ticker": "DHP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2737",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Điện cơ Hải Phòng",
+        "organShortName": "Điện cơ Hải Phòng"
+    },
+    {
+        "organCode": "DHT",
+        "ticker": "DHT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5333",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Dược phẩm Hà Tây",
+        "organShortName": "Dược phẩm Hà Tây"
+    },
+    {
+        "organCode": "DIH",
+        "ticker": "DIH",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Phát triển Xây dựng - Hội An",
+        "organShortName": "PT Xây dựng Hội An"
+    },
+    {
+        "organCode": "DL1",
+        "ticker": "DL1",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Alpha Seven",
+        "organShortName": "Tập đoàn Alpha 7"
+    },
+    {
+        "organCode": "DNC",
+        "ticker": "DNC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7535",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Điện nước Lắp máy Hải Phòng",
+        "organShortName": "Điện nước Hải Phòng"
+    },
+    {
+        "organCode": "DNM",
+        "ticker": "DNM",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "4537",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Tổng Công ty Cổ phần Y tế Danameco",
+        "organShortName": "Y tế Danameco"
+    },
+    {
+        "organCode": "DNP",
+        "ticker": "DNP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần DNP Holding",
+        "organShortName": "Nhựa Đồng Nai"
+    },
+    {
+        "organCode": "DNPORT",
+        "ticker": "CDN",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Cảng Đà Nẵng",
+        "organShortName": "Cảng Đà Nẵng"
+    },
+    {
+        "organCode": "DPC",
+        "ticker": "DPC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2723",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Nhựa Đà Nẵng",
+        "organShortName": "Nhựa Đà Nẵng"
+    },
+    {
+        "organCode": "DST",
+        "ticker": "DST",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Sao Thăng Long",
+        "organShortName": "Đầu tư Sao Thăng Long"
+    },
+    {
+        "organCode": "DTC",
+        "ticker": "DTC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Viglacera Đông Triều",
+        "organShortName": "Viglacera Đông Triều"
+    },
+    {
+        "organCode": "DVG",
+        "ticker": "DVG",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Sơn Đại Việt",
+        "organShortName": "Tập đoàn Sơn Đại Việt"
+    },
+    {
+        "organCode": "DXP",
+        "ticker": "DXP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Cảng Đoạn Xá",
+        "organShortName": "Cảng Đoạn Xá"
+    },
+    {
+        "organCode": "DZM",
+        "ticker": "DZM",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Cơ điện Dzĩ An",
+        "organShortName": "Cơ điện Dzĩ An"
+    },
+    {
+        "organCode": "EBS",
+        "ticker": "EBS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sách Giáo dục tại Thành phố Hà Nội",
+        "organShortName": "Sách Giáo dục Hà Nội"
+    },
+    {
+        "organCode": "ECI",
+        "ticker": "ECI",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn ECI",
+        "organShortName": "Bản đồ và tranh ảnh GD"
+    },
+    {
+        "organCode": "EID",
+        "ticker": "EID",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư và Phát triển Giáo dục Hà Nội",
+        "organShortName": "Phát triển GD Hà Nội"
+    },
+    {
+        "organCode": "FID",
+        "ticker": "FID",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8637",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư và Phát triển Doanh nghiệp Việt Nam",
+        "organShortName": "Đầu tư và PT doanh nghiệp VN"
+    },
+    {
+        "organCode": "FLCS",
+        "ticker": "ART",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CK",
+        "organName": "Công ty Cổ phần Chứng khoán BOS",
+        "organShortName": "Chứng khoán BOS"
+    },
+    {
+        "organCode": "FORIP",
+        "ticker": "DP3",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "4577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ Phần Dược Phẩm Trung Ương 3",
+        "organShortName": "Dược Phẩm TW3"
+    },
+    {
+        "organCode": "GDW",
+        "ticker": "GDW",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Cấp nước Gia Định",
+        "organShortName": "Cấp nước Gia Định"
+    },
+    {
+        "organCode": "GLEC",
+        "ticker": "GEG",
+        "comGroupCode": "VNINDEX",
+        "icbCode": "7535",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Điện Gia Lai",
+        "organShortName": "Điện Gia Lai"
+    },
+    {
+        "organCode": "GLT",
+        "ticker": "GLT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3743",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Kỹ thuật điện Toàn Cầu",
+        "organShortName": "KT Điện Toàn Cầu"
+    },
+    {
+        "organCode": "GMA",
+        "ticker": "GMA",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Enteco Việt Nam",
+        "organShortName": "Enteco Việt Nam"
+    },
+    {
+        "organCode": "GMX",
+        "ticker": "GMX",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Gạch ngói Gốm xây dựng Mỹ Xuân",
+        "organShortName": "Gạch ngói Mỹ Xuân"
+    },
+    {
+        "organCode": "GREENDI",
+        "ticker": "GIC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh",
+        "organShortName": "ĐT Dịch vụ và PT Xanh"
+    },
+    {
+        "organCode": "HABACO",
+        "ticker": "PHN",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2733",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Pin Hà Nội",
+        "organShortName": "Pin Hà Nội"
+    },
+    {
+        "organCode": "HAD",
+        "ticker": "HAD",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3533",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Bia Hà Nội - Hải Dương",
+        "organShortName": "Bia Hà Nội - Hải Dương"
+    },
+    {
+        "organCode": "HAT",
+        "ticker": "HAT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3533",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thương mại Bia Hà Nội",
+        "organShortName": "TM Bia Hà Nội"
+    },
+    {
+        "organCode": "HBS",
+        "ticker": "HBS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CK",
+        "organName": "Công ty Cổ phần Chứng khoán Hòa Bình",
+        "organShortName": "Chứng khoán Hòa Bình"
+    },
+    {
+        "organCode": "HCC",
+        "ticker": "HCC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Bê tông Hòa Cầm - Intimex",
+        "organShortName": "Bê tông Hòa Cầm"
+    },
+    {
+        "organCode": "HCT",
+        "ticker": "HCT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2779",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thương mại - Dịch vụ - Vận tải Xi măng Hải Phòng",
+        "organShortName": "Thương mại - Dịch vụ - Vận tải Xi măng Hải Phòng "
+    },
+    {
+        "organCode": "HDA",
+        "ticker": "HDA",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Hãng sơn Đông Á",
+        "organShortName": "Hãng sơn Đông Á"
+    },
+    {
+        "organCode": "HDG",
+        "ticker": "HDG",
+        "comGroupCode": "VNINDEX",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Hà Đô",
+        "organShortName": "Tập đoàn Hà Đô"
+    },
+    {
+        "organCode": "HEV",
+        "ticker": "HEV",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sách Đại học - Dạy nghề",
+        "organShortName": "Sách Đại học - Dạy nghề"
+    },
+    {
+        "organCode": "HGM",
+        "ticker": "HGM",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1775",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Cơ khí và Khoáng sản Hà Giang",
+        "organShortName": "Khoáng sản Hà Giang"
+    },
+    {
+        "organCode": "HHC",
+        "ticker": "HHC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Bánh kẹo Hải Hà",
+        "organShortName": "Bánh kẹo Hải Hà"
+    },
+    {
+        "organCode": "HHG",
+        "ticker": "HHG",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5759",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Hoàng Hà",
+        "organShortName": "Vận tải Hoàng Hà"
+    },
+    {
+        "organCode": "HJS",
+        "ticker": "HJS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7535",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thủy điện Nậm Mu",
+        "organShortName": "Thủy điện Nậm Mu"
+    },
+    {
+        "organCode": "HKT",
+        "ticker": "HKT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3537",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Ego Việt Nam",
+        "organShortName": "Đầu tư Ego Việt Nam"
+    },
+    {
+        "organCode": "HLC",
+        "ticker": "HLC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1771",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Than Hà Lầm - Vinacomin",
+        "organShortName": "Than Hà Lầm"
+    },
+    {
+        "organCode": "HLD",
+        "ticker": "HLD",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư và Phát triển Bất động sản HUDLAND",
+        "organShortName": "Bất động sản HUDLAND"
+    },
+    {
+        "organCode": "HMH",
+        "ticker": "HMH",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2779",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Hải Minh",
+        "organShortName": "Tập đoàn Hải Minh"
+    },
+    {
+        "organCode": "HOM",
+        "ticker": "HOM",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xi măng VICEM Hoàng Mai",
+        "organShortName": "Xi măng VICEM Hoàng Mai"
+    },
+    {
+        "organCode": "HPMC",
+        "ticker": "HPM",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1775",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây dựng Thương mại và Khoáng sản Hoàng Phúc",
+        "organShortName": "Khoáng sản Hoàng Phúc"
+    },
+    {
+        "organCode": "HTC",
+        "ticker": "HTC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7573",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thương mại Hóc Môn",
+        "organShortName": "Thương mại Hóc Môn"
+    },
+    {
+        "organCode": "HTP",
+        "ticker": "HTP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần In Sách Giáo Khoa Hòa Phát",
+        "organShortName": "In SGK Hòa Phát"
+    },
+    {
+        "organCode": "HUT",
+        "ticker": "HUT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tasco",
+        "organShortName": "HUD - Tasco"
+    },
+    {
+        "organCode": "HVT",
+        "ticker": "HVT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Hóa chất Việt Trì",
+        "organShortName": "Hóa chất Việt trì"
+    },
+    {
+        "organCode": "I40",
+        "ticker": "L40",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư và Xây dựng 40",
+        "organShortName": "Đầu tư và Xây dựng 40"
+    },
+    {
+        "organCode": "ICG",
+        "ticker": "ICG",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây dựng Sông Hồng",
+        "organShortName": "Xây dựng Sông Hồng"
+    },
+    {
+        "organCode": "IDICO",
+        "ticker": "IDC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Tổng Công ty IDICO - CTCP",
+        "organShortName": "IDICO"
+    },
+    {
+        "organCode": "IDJ",
+        "ticker": "IDJ",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư IDJ Việt Nam",
+        "organShortName": "Đầu tư IDJ Việt Nam"
+    },
+    {
+        "organCode": "IDV",
+        "ticker": "IDV",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Phát triển Hạ tầng Vĩnh Phúc",
+        "organShortName": "PT Hạ tầng Vĩnh Phúc"
+    },
+    {
+        "organCode": "INC",
+        "ticker": "INC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tư vấn Đầu tư IDICO",
+        "organShortName": "Tư vấn Đầu tư IDICO"
+    },
+    {
+        "organCode": "INDOCHINEINMEX",
+        "ticker": "DDG",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7573",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Công nghiệp Xuất nhập khẩu Đông Dương",
+        "organShortName": "Đầu tư CN XNK Đông Dương"
+    },
+    {
+        "organCode": "INN",
+        "ticker": "INN",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2723",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Bao bì và In Nông nghiệp",
+        "organShortName": "Bao bì và In Nông Nghiệp"
+    },
+    {
+        "organCode": "IPAG",
+        "ticker": "IPA",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2791",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Đầu tư I.P.A",
+        "organShortName": "Tập đoàn Đầu tư I.P.A"
+    },
+    {
+        "organCode": "ITQ",
+        "ticker": "ITQ",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Thiên Quang",
+        "organShortName": "Tập đoàn Thiên Quang"
+    },
+    {
+        "organCode": "IVS",
+        "ticker": "IVS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CK",
+        "organName": "Công ty Cổ phần Chứng khoán Goutai Junan (Việt Nam)",
+        "organShortName": "Chứng khoán Goutai Junan (Việt Nam)"
+    },
+    {
+        "organCode": "KBC",
+        "ticker": "KBC",
+        "comGroupCode": "VNINDEX",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Tổng Công ty Phát triển Đô thị Kinh Bắc",
+        "organShortName": "TCT Đô thị Kinh Bắc"
+    },
+    {
+        "organCode": "KDM",
+        "ticker": "KDM",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tổng Công ty Phát triển Khu Đô thị Dân cư mới",
+        "organShortName": "TCT Khu dân mới"
+    },
+    {
+        "organCode": "KIHUSEA",
+        "ticker": "KHS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3573",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Kiên Hùng",
+        "organShortName": "Thủy sản Kiên Hùng"
+    },
+    {
+        "organCode": "KKC",
+        "ticker": "KKC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Thành Thái",
+        "organShortName": "Tập đoàn Thành Thái"
+    },
+    {
+        "organCode": "KLF",
+        "ticker": "KLF",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5755",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Thương mại và Xuất nhập khẩu CFS",
+        "organShortName": "KLF Global"
+    },
+    {
+        "organCode": "KMBC",
+        "ticker": "GKM",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Khang Minh Group",
+        "organShortName": "Khang Minh Group"
+    },
+    {
+        "organCode": "KMT",
+        "ticker": "KMT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Kim khí Miền Trung",
+        "organShortName": "Kim khí Miền Trung"
+    },
+    {
+        "organCode": "KSD",
+        "ticker": "KSD",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3722",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư DNA",
+        "organShortName": "Đầu tư DNA"
+    },
+    {
+        "organCode": "KSQ",
+        "ticker": "KSQ",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1775",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần CNC Capital Việt Nam",
+        "organShortName": "CNC Capital Việt Nam"
+    },
+    {
+        "organCode": "KST",
+        "ticker": "KST",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "9578",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần KASATI",
+        "organShortName": "KASATI"
+    },
+    {
+        "organCode": "KTS",
+        "ticker": "KTS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đường Kon Tum",
+        "organShortName": "Đường Kon Tum"
+    },
+    {
+        "organCode": "KTT",
+        "ticker": "KTT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Đầu tư KTT",
+        "organShortName": "Tập đoàn Đầu tư KTT"
+    },
+    {
+        "organCode": "KVC",
+        "ticker": "KVC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sản xuất Xuất nhập khẩu Inox Kim Vĩ",
+        "organShortName": "XNK Inox Kim Vĩ"
+    },
+    {
+        "organCode": "L14",
+        "ticker": "L14",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Licogi 14",
+        "organShortName": "Licogi 14"
+    },
+    {
+        "organCode": "L18",
+        "ticker": "L18",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư và Xây dựng số 18",
+        "organShortName": "LICOGI - 18"
+    },
+    {
+        "organCode": "L35",
+        "ticker": "L35",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Cơ khí Lắp máy Lilama",
+        "organShortName": "Cơ khí Lilama"
+    },
+    {
+        "organCode": "L43",
+        "ticker": "L43",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Lilama 45.3",
+        "organShortName": "LILAMA 45.3"
+    },
+    {
+        "organCode": "L61",
+        "ticker": "L61",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Lilama 69-1",
+        "organShortName": "LILAMA 69-1"
+    },
+    {
+        "organCode": "L62",
+        "ticker": "L62",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Lilama 69.2",
+        "organShortName": "LILAMA 69.2"
+    },
+    {
+        "organCode": "LAS",
+        "ticker": "LAS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Supe Phốt phát và Hóa chất Lâm Thao",
+        "organShortName": "Hóa chất Lâm Thao"
+    },
+    {
+        "organCode": "LBE",
+        "ticker": "LBE",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sách và Thiết bị Trường học Long An",
+        "organShortName": "Sách và Thiết bị Trường học Long An"
+    },
+    {
+        "organCode": "LCD",
+        "ticker": "LCD",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Lắp máy - Thí nghiệm cơ điện",
+        "organShortName": "Thí nghiệm cơ điện"
+    },
+    {
+        "organCode": "LCS",
+        "ticker": "LCS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Licogi 16.6",
+        "organShortName": "Licogi 16.6"
+    },
+    {
+        "organCode": "LDP",
+        "ticker": "LDP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "4577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Dược Lâm Đồng - Ladophar",
+        "organShortName": "Dược Lâm Đồng - Ladophar"
+    },
+    {
+        "organCode": "LHC",
+        "ticker": "LHC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư và Xây dựng Thủy lợi Lâm Đồng",
+        "organShortName": "XD Thủy lợi Lâm Đồng"
+    },
+    {
+        "organCode": "LIG",
+        "ticker": "LIG",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Licogi 13",
+        "organShortName": "Licogi 13"
+    },
+    {
+        "organCode": "LM7",
+        "ticker": "LM7",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Lilama 7",
+        "organShortName": "LILAMA 7"
+    },
+    {
+        "organCode": "LUT",
+        "ticker": "LUT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Xây dựng Lương Tài",
+        "organShortName": "Đầu tư Xây dựng Lương Tài"
+    },
+    {
+        "organCode": "MAC",
+        "ticker": "MAC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2753",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Cung ứng và Dịch vụ Kỹ thuật Hàng Hải",
+        "organShortName": "MASERCO"
+    },
+    {
+        "organCode": "MAS",
+        "ticker": "MAS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5759",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty cổ phần Dịch vụ Hàng Không Sân Bay Đà Nẵng",
+        "organShortName": "Sân bay Đà Nẵng"
+    },
+    {
+        "organCode": "MCC",
+        "ticker": "MCC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Gạch ngói cao cấp",
+        "organShortName": "Gạch ngói cao cấp"
+    },
+    {
+        "organCode": "MCF",
+        "ticker": "MCF",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây lắp Cơ khí và Lương thực Thực phẩm",
+        "organShortName": "MECOFOOD"
+    },
+    {
+        "organCode": "MCO",
+        "ticker": "MCO",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư và Xây dựng BDC Việt Nam",
+        "organShortName": "BDC Việt Nam"
+    },
+    {
+        "organCode": "MDC",
+        "ticker": "MDC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1771",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Than Mông Dương - Vinacomin",
+        "organShortName": "Than Mông Dương"
+    },
+    {
+        "organCode": "MED",
+        "ticker": "MED",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "4577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Dược Trung ương Mediplantex",
+        "organShortName": "Dược Mediplantex"
+    },
+    {
+        "organCode": "MELIN",
+        "ticker": "MEL",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thép Mê Lin",
+        "organShortName": "Thép Mê Lin"
+    },
+    {
+        "organCode": "MHL",
+        "ticker": "MHL",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Minh Hữu Liên",
+        "organShortName": "Minh Hữu Liên"
+    },
+    {
+        "organCode": "MIM",
+        "ticker": "MIM",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1775",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Khoáng sản và Cơ khí",
+        "organShortName": "Khoáng sản và Cơ khí"
+    },
+    {
+        "organCode": "MKV",
+        "ticker": "MKV",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "4577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Dược Thú Y Cai Lậy",
+        "organShortName": "Dược Thú Y Cai Lậy"
+    },
+    {
+        "organCode": "MNSCORP",
+        "ticker": "MML",
+        "comGroupCode": "UpcomIndex",
+        "icbCode": "3577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Masan MEATLife",
+        "organShortName": "Masan MEATLife"
+    },
+    {
+        "organCode": "MSN",
+        "ticker": "MSN",
+        "comGroupCode": "VNINDEX",
+        "icbCode": "3577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Masan",
+        "organShortName": "Tập đoàn Masan"
+    },
+    {
+        "organCode": "MSRC",
+        "ticker": "MSR",
+        "comGroupCode": "UpcomIndex",
+        "icbCode": "1775",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Masan High-Tech Materials",
+        "organShortName": "Masan High-Tech Materials"
+    },
+    {
+        "organCode": "MST",
+        "ticker": "MST",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư MST",
+        "organShortName": "Đầu tư MST"
+    },
+    {
+        "organCode": "NAG",
+        "ticker": "NAG",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2733",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Nagakawa",
+        "organShortName": "Tập đoàn Nagakawa"
+    },
+    {
+        "organCode": "NAP",
+        "ticker": "NAP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Cảng Nghệ Tĩnh",
+        "organShortName": "Cảng Nghệ Tĩnh"
+    },
+    {
+        "organCode": "NASB",
+        "ticker": "BAB",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8355",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "NH",
+        "organName": "Ngân hàng Thương mại Cổ phần Bắc Á",
+        "organShortName": "Ngân hàng Bắc Á"
+    },
+    {
+        "organCode": "NBC",
+        "ticker": "NBC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1771",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Than Núi Béo - Vinacomin",
+        "organShortName": "Than Núi Béo"
+    },
+    {
+        "organCode": "NBP",
+        "ticker": "NBP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7535",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Nhiệt Điện Ninh Bình",
+        "organShortName": "Nhiệt điện Ninh Bình"
+    },
+    {
+        "organCode": "NBW",
+        "ticker": "NBW",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Cấp nước Nhà Bè",
+        "organShortName": "Cấp nước Nhà Bè"
+    },
+    {
+        "organCode": "NDN",
+        "ticker": "NDN",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Phát triển Nhà Đà Nẵng",
+        "organShortName": "PT Nhà Đà Nẵng"
+    },
+    {
+        "organCode": "NDX",
+        "ticker": "NDX",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây lắp Phát triển Nhà Đà Nẵng",
+        "organShortName": "Phát triển Nhà Đà Nẵng"
+    },
+    {
+        "organCode": "NET",
+        "ticker": "NET",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3767",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Bột giặt Net",
+        "organShortName": "Bột giặt Net"
+    },
+    {
+        "organCode": "NETLAND",
+        "ticker": "NRC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Danh Khôi",
+        "organShortName": "Tập đoàn Danh Khôi"
+    },
+    {
+        "organCode": "NFC",
+        "ticker": "NFC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Phân lân Ninh Bình",
+        "organShortName": "Phân lân Ninh Bình"
+    },
+    {
+        "organCode": "NHC",
+        "ticker": "NHC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Gạch ngói Nhị Hiệp",
+        "organShortName": "Gạch ngói Nhị Hiệp"
+    },
+    {
+        "organCode": "NHN",
+        "ticker": "VHM",
+        "comGroupCode": "VNINDEX",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Vinhomes",
+        "organShortName": "Vinhomes"
+    },
+    {
+        "organCode": "NPFC",
+        "ticker": "PMB",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Phân bón và Hóa chất Dầu khí Miền Bắc",
+        "organShortName": "Phân bón và Hóa chất Dầu khí Miền Bắc"
+    },
+    {
+        "organCode": "NST",
+        "ticker": "NST",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3785",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Ngân Sơn",
+        "organShortName": "Thuốc lá Ngân Sơn"
+    },
+    {
+        "organCode": "NTP",
+        "ticker": "NTP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Nhựa Thiếu niên Tiền Phong",
+        "organShortName": "Nhựa Tiền Phong"
+    },
+    {
+        "organCode": "NVB",
+        "ticker": "NVB",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8355",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "NH",
+        "organName": "Ngân hàng Thương mại Cổ phần Quốc Dân",
+        "organShortName": "Ngân hàng Quốc Dân"
+    },
+    {
+        "organCode": "OCH",
+        "ticker": "OCH",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần One Capital Hospitality",
+        "organShortName": "Khách sạn và Dịch vụ OCH"
+    },
+    {
+        "organCode": "OCSC",
+        "ticker": "EVS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CK",
+        "organName": "Công ty Cổ phần Chứng khoán Everest",
+        "organShortName": "Chứng khoán Everest"
+    },
+    {
+        "organCode": "ONE",
+        "ticker": "ONE",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "9572",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Truyền thông số 1",
+        "organShortName": "Truyền thông Số 1"
+    },
+    {
+        "organCode": "PBP",
+        "ticker": "PBP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2723",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Bao bì Dầu khí Việt Nam",
+        "organShortName": "Bao bì Dầu khí VN"
+    },
+    {
+        "organCode": "PCG",
+        "ticker": "PCG",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7573",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Phát triển Gas Đô thị",
+        "organShortName": "Đầu tư PT Gas Đô thị"
+    },
+    {
+        "organCode": "PCT",
+        "ticker": "PCT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2779",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Vận tải Khí và Hóa chất Việt Nam",
+        "organShortName": "Vận tải Khí và Hóa chất Việt Nam"
+    },
+    {
+        "organCode": "PDB",
+        "ticker": "PDB",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Đầu tư DIN Capital",
+        "organShortName": "DIN Capital"
+    },
+    {
+        "organCode": "PDC",
+        "ticker": "PDC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5759",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Du lịch Dầu khí Phương Đông",
+        "organShortName": "Dầu khí Phương Đông"
+    },
+    {
+        "organCode": "PEN",
+        "ticker": "PEN",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây lắp III Petrolimex",
+        "organShortName": "Xây lắp III Petrolimex"
+    },
+    {
+        "organCode": "PGN",
+        "ticker": "PGN",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Phụ Gia Nhựa",
+        "organShortName": "Phụ Gia Nhựa"
+    },
+    {
+        "organCode": "PGS",
+        "ticker": "PGS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7573",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Kinh doanh Khí Miền Nam",
+        "organShortName": "Khí Miền Nam"
+    },
+    {
+        "organCode": "PGT",
+        "ticker": "PGT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5759",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần PGT Holdings",
+        "organShortName": "PGT Holdings"
+    },
+    {
+        "organCode": "PHP",
+        "ticker": "PHP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Cảng Hải Phòng",
+        "organShortName": "Cảng Hải Phòng"
+    },
+    {
+        "organCode": "PIACOM",
+        "ticker": "PIA",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "6535",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tin học Viễn thông Petrolimex",
+        "organShortName": "Tin học Viễn thông Petrolimex"
+    },
+    {
+        "organCode": "PIC",
+        "ticker": "PIC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7535",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Điện lực 3",
+        "organShortName": "Đầu tư Điện lực 3"
+    },
+    {
+        "organCode": "PJC",
+        "ticker": "PJC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7573",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thương mại và Vận tải Petrolimex Hà Nội",
+        "organShortName": "TM và Vận tải Petrolimex HN"
+    },
+    {
+        "organCode": "PLC",
+        "ticker": "PLC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Tổng Công ty Hóa dầu Petrolimex - Công ty Cổ phần",
+        "organShortName": "Hóa dầu Petrolimex"
+    },
+    {
+        "organCode": "PMC",
+        "ticker": "PMC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "4577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Dược phẩm Dược liệu Pharmedic",
+        "organShortName": "Pharmedic"
+    },
+    {
+        "organCode": "PMPACK",
+        "ticker": "PMP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2723",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Bao bì Đạm Phú Mỹ",
+        "organShortName": "Bao bì Đạm Phú Mỹ"
+    },
+    {
+        "organCode": "PMS",
+        "ticker": "PMS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Cơ khí Xăng dầu",
+        "organShortName": "Cơ khí xăng dầu"
+    },
+    {
+        "organCode": "POT",
+        "ticker": "POT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "9572",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thiết bị Bưu điện",
+        "organShortName": "Thiết bị Bưu điện Postef"
+    },
+    {
+        "organCode": "PPE",
+        "ticker": "PPE",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2791",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tư vấn Đầu tư PP Enterprise",
+        "organShortName": "PVPower Engineering"
+    },
+    {
+        "organCode": "PPP",
+        "ticker": "PPP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "4577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Dược phẩm Phong Phú",
+        "organShortName": "PP.Pharco"
+    },
+    {
+        "organCode": "PPS",
+        "ticker": "PPS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2791",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Dịch vụ Kỹ thuật Điện lực Dầu khí Việt Nam",
+        "organShortName": "DVKT Điện lực Dầu khí"
+    },
+    {
+        "organCode": "PRC",
+        "ticker": "PRC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2779",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Logistics Portserco",
+        "organShortName": "Vận tải Portserco"
+    },
+    {
+        "organCode": "PSC",
+        "ticker": "PSC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2779",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Sài Gòn",
+        "organShortName": "Vận tải Petrolimex SG"
+    },
+    {
+        "organCode": "PSD",
+        "ticker": "PSD",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5379",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Dịch vụ Phân phối Tổng hợp Dầu khí",
+        "organShortName": "Phân phối Tổng hợp Dầu khí"
+    },
+    {
+        "organCode": "PSE",
+        "ticker": "PSE",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Phân bón và hóa chất dầu khí Đông Nam Bộ",
+        "organShortName": "Phân bón và hóa chất dầu khí Đông Nam Bộ"
+    },
+    {
+        "organCode": "PSI",
+        "ticker": "PSI",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CK",
+        "organName": "Công ty Cổ phần Chứng khoán Dầu khí",
+        "organShortName": "Chứng khoán Dầu khí"
+    },
+    {
+        "organCode": "PTCOIN",
+        "ticker": "KSF",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty cổ phần Tập đoàn KSFinance",
+        "organShortName": "Tập đoàn KSFinance"
+    },
+    {
+        "organCode": "PTD",
+        "ticker": "PTD",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thiết kế - Xây dựng - Thương mại Phúc Thịnh",
+        "organShortName": "Thiết kế-XD-TM Phúc Thịnh"
+    },
+    {
+        "organCode": "PTI",
+        "ticker": "PTI",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8536",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "BH",
+        "organName": "Tổng Công ty Cổ phần Bảo hiểm Bưu điện",
+        "organShortName": "Bảo hiểm Bưu điện"
+    },
+    {
+        "organCode": "PTS",
+        "ticker": "PTS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2779",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Hải Phòng",
+        "organShortName": "Vận tải Petrolimex HP"
+    },
+    {
+        "organCode": "PTTD",
+        "ticker": "DTD",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Phát triển Thành Đạt",
+        "organShortName": "Đầu tư Phát triển Thành Đạt"
+    },
+    {
+        "organCode": "PV2",
+        "ticker": "PV2",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư PV2",
+        "organShortName": "Đầu tư PV2"
+    },
+    {
+        "organCode": "PVB",
+        "ticker": "PVB",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "0573",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Bọc ống Dầu khí Việt Nam",
+        "organShortName": "Bọc ống Dầu khí Việt Nam"
+    },
+    {
+        "organCode": "PVC",
+        "ticker": "PVC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "0573",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Tổng Công ty Hóa chất và Dịch vụ Dầu khí - Công ty Cổ phần",
+        "organShortName": "Hóa chất và Dịch vụ Dầu khí"
+    },
+    {
+        "organCode": "PVCE",
+        "ticker": "PCE",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Phân bón và hóa chất dầu khí Miền Trung",
+        "organShortName": "Phân bón và Hóa chất DK Miền Trung"
+    },
+    {
+        "organCode": "PVFCSW",
+        "ticker": "PSW",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Phân bón và hóa chất dầu khí Tây Nam Bộ",
+        "organShortName": "Phân bón hóa chất dầu khí Tây Nam Bộ"
+    },
+    {
+        "organCode": "PVG",
+        "ticker": "PVG",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7573",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Kinh doanh LPG Việt Nam",
+        "organShortName": "Kinh doanh LPG Việt Nam"
+    },
+    {
+        "organCode": "PVI",
+        "ticker": "PVI",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8536",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "BH",
+        "organName": "Công ty Cổ phần PVI",
+        "organShortName": "Bảo hiểm PVI"
+    },
+    {
+        "organCode": "PVIRE",
+        "ticker": "PRE",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8538",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "BH",
+        "organName": "Tổng Công ty Cổ phần Tái bảo hiểm PVI",
+        "organShortName": "Tái bảo hiểm PVI"
+    },
+    {
+        "organCode": "PVL",
+        "ticker": "PVL",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Nhà Đất Việt",
+        "organShortName": "Đầu tư Nhà Đất Việt"
+    },
+    {
+        "organCode": "PVOPY",
+        "ticker": "PPY",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7573",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xăng dầu dầu khí Phú Yên",
+        "organShortName": "Xăng dầu dầu khí Phú Yên"
+    },
+    {
+        "organCode": "PVS",
+        "ticker": "PVS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "0573",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Tổng Công ty Cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam",
+        "organShortName": "DVKT Dầu khí PTSC"
+    },
+    {
+        "organCode": "QHD",
+        "ticker": "QHD",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2727",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Que hàn điện Việt Đức",
+        "organShortName": "Que hàn Việt Đức"
+    },
+    {
+        "organCode": "QST",
+        "ticker": "QST",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sách và Thiết bị trường học Quảng Ninh",
+        "organShortName": "Sách Quảng Ninh"
+    },
+    {
+        "organCode": "QTC",
+        "ticker": "QTC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Công trình Giao thông Vận tải Quảng Nam",
+        "organShortName": "GTVT Quảng Nam"
+    },
+    {
+        "organCode": "RCL",
+        "ticker": "RCL",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Địa ốc Chợ Lớn",
+        "organShortName": "Địa Ốc Chợ Lớn"
+    },
+    {
+        "organCode": "RIMACO3",
+        "ticker": "DS3",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Quản lý Đường sông số 3",
+        "organShortName": "Quản lý Đường sông số 3"
+    },
+    {
+        "organCode": "S55",
+        "ticker": "S55",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sông Đà 505",
+        "organShortName": "Sông Đà 505"
+    },
+    {
+        "organCode": "S99",
+        "ticker": "S99",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần SCI",
+        "organShortName": "Sông Đà 9.09 (SCI)"
+    },
+    {
+        "organCode": "SAF",
+        "ticker": "SAF",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Lương thực Thực phẩm SAFOCO",
+        "organShortName": "Thực Phẩm SAFOCO"
+    },
+    {
+        "organCode": "SBT",
+        "ticker": "SBT",
+        "comGroupCode": "VNINDEX",
+        "icbCode": "3577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thành Thành Công - Biên Hòa",
+        "organShortName": "Mía đường Thành Thành Công - Biên Hòa"
+    },
+    {
+        "organCode": "SCG",
+        "ticker": "SCG",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây dựng SCG",
+        "organShortName": "Xây dựng SCG"
+    },
+    {
+        "organCode": "SCI",
+        "ticker": "SCI",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần SCI E&amp;C",
+        "organShortName": "SCI E&amp;C"
+    },
+    {
+        "organCode": "SD2",
+        "ticker": "SD2",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sông Đà 2",
+        "organShortName": "Sông Đà 2"
+    },
+    {
+        "organCode": "SD4",
+        "ticker": "SD4",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sông Đà 4",
+        "organShortName": "Sông Đà 4"
+    },
+    {
+        "organCode": "SD5",
+        "ticker": "SD5",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sông Đà 5",
+        "organShortName": "Sông Đà 5"
+    },
+    {
+        "organCode": "SD6",
+        "ticker": "SD6",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sông Đà 6",
+        "organShortName": "Sông Đà 6"
+    },
+    {
+        "organCode": "SD9",
+        "ticker": "SD9",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sông Đà 9",
+        "organShortName": "Sông Đà 9"
+    },
+    {
+        "organCode": "SDA",
+        "ticker": "SDA",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2793",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần SIMCO Sông Đà",
+        "organShortName": "XKLĐ Sông Đà"
+    },
+    {
+        "organCode": "SDC",
+        "ticker": "SDC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2791",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tư vấn Sông Đà",
+        "organShortName": "Tư vấn Sông Đà"
+    },
+    {
+        "organCode": "SDG",
+        "ticker": "SDG",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2723",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sadico Cần Thơ",
+        "organShortName": "Sadico Cần Thơ"
+    },
+    {
+        "organCode": "SDN",
+        "ticker": "SDN",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sơn Đồng Nai",
+        "organShortName": "Sơn Đồng Nai"
+    },
+    {
+        "organCode": "SDT",
+        "ticker": "SDT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sông Đà 10",
+        "organShortName": "Sông Đà 10"
+    },
+    {
+        "organCode": "SDU",
+        "ticker": "SDU",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Đô thị Sông Đà",
+        "organShortName": "Đô thị Sông Đà"
+    },
+    {
+        "organCode": "SEB",
+        "ticker": "SEB",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7535",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư và Phát triển Điện Miền Trung",
+        "organShortName": "Điện miền Trung"
+    },
+    {
+        "organCode": "SED",
+        "ticker": "SED",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư và Phát triển Giáo dục Phương Nam",
+        "organShortName": "Phát triển GD Phương Nam"
+    },
+    {
+        "organCode": "SFN",
+        "ticker": "SFN",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2797",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Dệt lưới Sài Gòn",
+        "organShortName": "Dệt lưới Sài Gòn"
+    },
+    {
+        "organCode": "SGC",
+        "ticker": "SGC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xuất nhập khẩu Sa Giang",
+        "organShortName": "Bánh phồng tôm Sa Giang"
+    },
+    {
+        "organCode": "SGD",
+        "ticker": "SGD",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sách Giáo dục tại Thành phố Hồ Chí Minh",
+        "organShortName": "Sách GD TP.HCM"
+    },
+    {
+        "organCode": "SGH",
+        "ticker": "SGH",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5753",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Khách sạn Sài Gòn",
+        "organShortName": "Khách sạn Sài Gòn"
+    },
+    {
+        "organCode": "SHAL",
+        "ticker": "NSH",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1753",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Nhôm Sông Hồng",
+        "organShortName": "Nhôm Sông Hồng"
+    },
+    {
+        "organCode": "SHN",
+        "ticker": "SHN",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Tổng hợp Hà Nội",
+        "organShortName": "Đầu tư Tổng hợp Hà Nội"
+    },
+    {
+        "organCode": "SHS",
+        "ticker": "SHS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CK",
+        "organName": "Công ty Cổ phần Chứng khoán Sài Gòn - Hà Nội",
+        "organShortName": "Chứng khoán SG - HN"
+    },
+    {
+        "organCode": "SIC",
+        "ticker": "SIC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần ANI",
+        "organShortName": "Công ty Cổ phần ANI"
+    },
+    {
+        "organCode": "SJ1",
+        "ticker": "SJ1",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3573",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Nông nghiệp Hùng Hậu",
+        "organShortName": "Nông nghiệp Hùng Hậu"
+    },
+    {
+        "organCode": "SJE",
+        "ticker": "SJE",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sông Đà 11",
+        "organShortName": "Sông Đà 11"
+    },
+    {
+        "organCode": "SLS",
+        "ticker": "SLS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Mía đường Sơn La",
+        "organShortName": "Mía đường Sơn La"
+    },
+    {
+        "organCode": "SMT",
+        "ticker": "SMT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "9578",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần SAMETEL",
+        "organShortName": "SAMETEL"
+    },
+    {
+        "organCode": "SOBEE",
+        "ticker": "SMN",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sách và thiết bị giáo dục Miền Nam",
+        "organShortName": "Sách và thiết bị GD miền Nam"
+    },
+    {
+        "organCode": "SONHADRE",
+        "ticker": "SHE",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3722",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Phát triển Năng Lượng Sơn Hà",
+        "organShortName": "PT Năng Lượng Sơn Hà"
+    },
+    {
+        "organCode": "SPC",
+        "ticker": "SPC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Bảo vệ Thực vật Sài Gòn",
+        "organShortName": "BV Thực vật Sài Gòn"
+    },
+    {
+        "organCode": "SPI",
+        "ticker": "SPI",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1775",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Spiral Galaxy",
+        "organShortName": "Đá Spilít"
+    },
+    {
+        "organCode": "SRA",
+        "ticker": "SRA",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "9537",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần SARA Việt Nam",
+        "organShortName": "SARA Việt Nam"
+    },
+    {
+        "organCode": "SSM",
+        "ticker": "SSM",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Chế tạo kết cấu thép VNECO.SSM",
+        "organShortName": "Kết cấu Thép VNECO"
+    },
+    {
+        "organCode": "STC",
+        "ticker": "STC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sách và Thiết bị trường học Thành phố Hồ Chí Minh",
+        "organShortName": "Sách và Thiết bị trường học Thành phố Hồ Chí Minh"
+    },
+    {
+        "organCode": "STP",
+        "ticker": "STP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2723",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Công nghiệp Thương mại Sông Đà",
+        "organShortName": "CN Thương Mại Sông Đà"
+    },
+    {
+        "organCode": "SVN",
+        "ticker": "SVN",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Vexilla Việt Nam",
+        "organShortName": "Tập đoàn Vexilla Việt Nam"
+    },
+    {
+        "organCode": "SZLB",
+        "ticker": "SZB",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Sonadezi Long Bình",
+        "organShortName": "Sonadezi Long Bình"
+    },
+    {
+        "organCode": "TA96",
+        "ticker": "TA9",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây lắp Thành An 96",
+        "organShortName": "Xây lắp Thành An 96"
+    },
+    {
+        "organCode": "TBX",
+        "ticker": "TBX",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xi măng Thái Bình",
+        "organShortName": "Xi măng Thái Bình"
+    },
+    {
+        "organCode": "TC6",
+        "ticker": "TC6",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1771",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Than Cọc Sáu - Vinacomin",
+        "organShortName": "Than Cọc Sáu"
+    },
+    {
+        "organCode": "TDN",
+        "ticker": "TDN",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1771",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Than Đèo Nai - Vinacomin",
+        "organShortName": "Than Đèo Nai"
+    },
+    {
+        "organCode": "TDNT",
+        "ticker": "NTH",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7535",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thủy điện Nước Trong",
+        "organShortName": "Thủy điện Nước Trong"
+    },
+    {
+        "organCode": "TDTGROUP",
+        "ticker": "TDT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3763",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư và Phát triển TDT",
+        "organShortName": "Đầu tư và Phát triển TDT"
+    },
+    {
+        "organCode": "TECHVINA",
+        "ticker": "CET",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3767",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần HTC Holding",
+        "organShortName": "HTC Holding JSC"
+    },
+    {
+        "organCode": "TET",
+        "ticker": "TET",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3763",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Vải sợi May mặc Miền Bắc",
+        "organShortName": "May mặc Miền Bắc"
+    },
+    {
+        "organCode": "TFC",
+        "ticker": "TFC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Trang",
+        "organShortName": "Trang Corp."
+    },
+    {
+        "organCode": "THB",
+        "ticker": "THB",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3533",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Bia Hà Nội - Thanh Hóa",
+        "organShortName": "Bia Hà Nội - Thanh Hóa"
+    },
+    {
+        "organCode": "THD",
+        "ticker": "THD",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thaiholdings",
+        "organShortName": "Công ty Thaiholdings"
+    },
+    {
+        "organCode": "THS",
+        "ticker": "THS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5373",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thanh Hoa Sông Đà",
+        "organShortName": "Thanh Hoa Sông Đà"
+    },
+    {
+        "organCode": "THT",
+        "ticker": "THT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1771",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Than Hà Tu - Vinacomin",
+        "organShortName": "Than Hà Tu"
+    },
+    {
+        "organCode": "TIENTHANH",
+        "ticker": "TTH",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5371",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thương mại và Dịch vụ Tiến Thành",
+        "organShortName": "TM và DV Tiến Thành"
+    },
+    {
+        "organCode": "TIG",
+        "ticker": "TIG",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Đầu tư Thăng Long",
+        "organShortName": "Tập đoàn Đầu tư Thăng Long"
+    },
+    {
+        "organCode": "TJC",
+        "ticker": "TJC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2779",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Dịch vụ Vận tải và Thương mại",
+        "organShortName": "Dịch vụ Vận tải và Thương mại"
+    },
+    {
+        "organCode": "TKC",
+        "ticker": "TKC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây dựng và Kinh doanh Địa ốc Tân Kỷ",
+        "organShortName": "Địa ốc Tân Kỷ"
+    },
+    {
+        "organCode": "TKU",
+        "ticker": "TKU",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1753",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Công nghiệp Tung Kuang",
+        "organShortName": "Công nghiệp Tung Kuang"
+    },
+    {
+        "organCode": "TLGROUP",
+        "ticker": "TTL",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Tổng Công ty Thăng Long - Công ty Cổ phần",
+        "organShortName": "TCT Thăng Long"
+    },
+    {
+        "organCode": "TLSC",
+        "ticker": "MBS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CK",
+        "organName": "Công ty Cổ phần Chứng khoán MB",
+        "organShortName": "Chứng khoán MB"
+    },
+    {
+        "organCode": "TMC",
+        "ticker": "TMC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7573",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thương mại Xuất nhập khẩu Thủ Đức",
+        "organShortName": "XNK Thủ Đức"
+    },
+    {
+        "organCode": "TMX",
+        "ticker": "TMX",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần VICEM Thương mại Xi măng",
+        "organShortName": "Thương mại Xi măng"
+    },
+    {
+        "organCode": "TNC1",
+        "ticker": "BAX",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thống Nhất",
+        "organShortName": "Công ty Thống Nhất"
+    },
+    {
+        "organCode": "TNG",
+        "ticker": "TNG",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3763",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư và Thương mại TNG",
+        "organShortName": "Đầu tư và Thương mại TNG"
+    },
+    {
+        "organCode": "TOT",
+        "ticker": "TOT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2779",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Transimex Logistics",
+        "organShortName": "Vận tải Transimex"
+    },
+    {
+        "organCode": "TPBC",
+        "ticker": "BCF",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thực phẩm Bích Chi",
+        "organShortName": "Thực phẩm Bích Chi"
+    },
+    {
+        "organCode": "TPH",
+        "ticker": "TPH",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5557",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần In Sách giáo khoa tại Thành phố Hà Nội",
+        "organShortName": "In Sách giáo khoa TP.Hà Nội"
+    },
+    {
+        "organCode": "TPP",
+        "ticker": "TPP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2723",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tân Phú Việt Nam",
+        "organShortName": "Nhựa Tân Phú VN"
+    },
+    {
+        "organCode": "TRUNGANRICE",
+        "ticker": "TAR",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3573",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Nông nghiệp Công nghệ cao Trung An",
+        "organShortName": "Nông nghiệp CN cao Trung An"
+    },
+    {
+        "organCode": "TSB",
+        "ticker": "TSB",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2733",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Ắc quy Tia Sáng",
+        "organShortName": "Ắc quy Tia Sáng"
+    },
+    {
+        "organCode": "TST",
+        "ticker": "TST",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "9533",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Dịch vụ Kỹ thuật Viễn thông",
+        "organShortName": "Dịch vụ KT Viễn Thông"
+    },
+    {
+        "organCode": "TTC",
+        "ticker": "TTC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Gạch men Thanh Thanh",
+        "organShortName": "Gạch men Thanh Thanh"
+    },
+    {
+        "organCode": "TTCO",
+        "ticker": "TTT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "5759",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Du Lịch - Thương Mại Tây Ninh",
+        "organShortName": "Du lịch - Thương Mại Tây Ninh"
+    },
+    {
+        "organCode": "TTZ",
+        "ticker": "TTZ",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư Xây dựng và Công nghệ Tiến Trung",
+        "organShortName": "Xây dựng Tiến Trung"
+    },
+    {
+        "organCode": "TV3",
+        "ticker": "TV3",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tư vấn Xây dựng Điện 3",
+        "organShortName": "Tư vấn XD điện 3"
+    },
+    {
+        "organCode": "TV4",
+        "ticker": "TV4",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2791",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tư vấn Xây dựng Điện 4",
+        "organShortName": "Tư vấn XD Điện 4"
+    },
+    {
+        "organCode": "TVC",
+        "ticker": "TVC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8775",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Quản lý Tài sản Trí Việt",
+        "organShortName": "Tập đoàn Trí Việt"
+    },
+    {
+        "organCode": "TVD",
+        "ticker": "TVD",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1771",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Than Vàng Danh - Vinacomin",
+        "organShortName": "Than Vàng Danh"
+    },
+    {
+        "organCode": "TXM",
+        "ticker": "TXM",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần VICEM Thạch cao Xi Măng",
+        "organShortName": "Thạch cao Xi măng"
+    },
+    {
+        "organCode": "UNI",
+        "ticker": "UNI",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "9533",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư và Phát triển Sao Mai Việt",
+        "organShortName": "Viễn Liên"
+    },
+    {
+        "organCode": "V12",
+        "ticker": "V12",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây dựng số 12",
+        "organShortName": "VINACONEX 12"
+    },
+    {
+        "organCode": "V21",
+        "ticker": "V21",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Vinaconex 21",
+        "organShortName": "Vinaconex 21"
+    },
+    {
+        "organCode": "VBC",
+        "ticker": "VBC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2723",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Nhựa, Bao bì Vinh",
+        "organShortName": "Nhựa - Bao bì Vinh"
+    },
+    {
+        "organCode": "VC1",
+        "ticker": "VC1",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây dựng số 1",
+        "organShortName": "Xây dựng số 1"
+    },
+    {
+        "organCode": "VC2",
+        "ticker": "VC2",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư và Xây dựng VINA2",
+        "organShortName": "Đầu tư và Xây dựng VINA2"
+    },
+    {
+        "organCode": "VC3",
+        "ticker": "VC3",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8637",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Nam Mê Kông",
+        "organShortName": "Tập đoàn Nam Mê Kông"
+    },
+    {
+        "organCode": "VC6",
+        "ticker": "VC6",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty cổ phần Xây dựng và Đầu tư Visicons",
+        "organShortName": "Visicons"
+    },
+    {
+        "organCode": "VC7",
+        "ticker": "VC7",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn BGI",
+        "organShortName": "BGI Group"
+    },
+    {
+        "organCode": "VC9",
+        "ticker": "VC9",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây dựng số 9 - VC9",
+        "organShortName": "Xây dựng số 9"
+    },
+    {
+        "organCode": "VCC",
+        "ticker": "VCC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Vinaconex 25",
+        "organShortName": "Vinaconex 25"
+    },
+    {
+        "organCode": "VCIE",
+        "ticker": "CLM",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1771",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xuất nhập khẩu Than - Vinacomin",
+        "organShortName": "Xuất nhập khẩu Than - Vinacomin"
+    },
+    {
+        "organCode": "VCM",
+        "ticker": "VCM",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2793",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Nhân lực và Thương mại Vinaconex",
+        "organShortName": "VINACONEX MEC"
+    },
+    {
+        "organCode": "VCS",
+        "ticker": "VCS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần VICOSTONE",
+        "organShortName": "VICOSTONE"
+    },
+    {
+        "organCode": "VDL",
+        "ticker": "VDL",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3535",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thực phẩm Lâm Đồng",
+        "organShortName": "Thực phẩm Lâm Đồng"
+    },
+    {
+        "organCode": "VE1",
+        "ticker": "VE1",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây dựng điện VNECO 1",
+        "organShortName": "VNECO 1"
+    },
+    {
+        "organCode": "VE2",
+        "ticker": "VE2",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây dựng Điện VNECO 2",
+        "organShortName": "Xây dựng Điện VNECO 2"
+    },
+    {
+        "organCode": "VE3",
+        "ticker": "VE3",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây dựng điện VNECO 3",
+        "organShortName": "Xây dựng điện VNECO 3"
+    },
+    {
+        "organCode": "VE4",
+        "ticker": "VE4",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây dựng điện VNECO4",
+        "organShortName": "Xây dựng điện VNECO4"
+    },
+    {
+        "organCode": "VE8",
+        "ticker": "VE8",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xây dựng Điện Vneco 8",
+        "organShortName": "Xây dựng Điện Vneco 8"
+    },
+    {
+        "organCode": "VGP",
+        "ticker": "VGP",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Cảng Rau Quả",
+        "organShortName": "Cảng Rau Quả"
+    },
+    {
+        "organCode": "VGS",
+        "ticker": "VGS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1757",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Ống thép Việt Đức VG PIPE",
+        "organShortName": "Ống thép Việt Đức"
+    },
+    {
+        "organCode": "VHL",
+        "ticker": "VHL",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Viglacera Hạ Long",
+        "organShortName": "Viglacera Hạ Long"
+    },
+    {
+        "organCode": "VIDIC",
+        "ticker": "MBG",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn MBG",
+        "organShortName": "Tập đoàn MBG"
+    },
+    {
+        "organCode": "VIE",
+        "ticker": "VIE",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "9578",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Công nghệ Viễn thông VI TE CO",
+        "organShortName": "CN Viễn thông VI TE CO"
+    },
+    {
+        "organCode": "VIETBAC",
+        "ticker": "MVB",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1775",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Tổng Công ty Công nghiệp mỏ Việt Bắc TKV - Công ty Cổ phần",
+        "organShortName": "Mỏ Việt Bắc - TKV"
+    },
+    {
+        "organCode": "VIETJET",
+        "ticker": "VJC",
+        "comGroupCode": "VNINDEX",
+        "icbCode": "5751",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Hàng không Vietjet",
+        "organShortName": "Vietjet Air"
+    },
+    {
+        "organCode": "VIG",
+        "ticker": "VIG",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CK",
+        "organName": "Công ty Cổ phần Chứng khoán Thương mại và Công nghiệp Việt Nam",
+        "organShortName": "CK TM và CN Việt Nam"
+    },
+    {
+        "organCode": "VINACOMINPOWER",
+        "ticker": "DTK",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "7535",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Tổng Công ty Điện lực TKV - Công ty Cổ phần",
+        "organShortName": "Vinacomin Power"
+    },
+    {
+        "organCode": "VINAFOR",
+        "ticker": "VIF",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1733",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Tổng Công ty Lâm nghiệp Việt Nam - Công ty Cổ phần",
+        "organShortName": "Lâm nghiệp Việt Nam"
+    },
+    {
+        "organCode": "VINAHERB",
+        "ticker": "VHE",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "4577",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Dược liệu và Thực phẩm Việt Nam",
+        "organShortName": "Dược liệu và Thực phẩm VN"
+    },
+    {
+        "organCode": "VIT",
+        "ticker": "VIT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Viglacera Tiên Sơn",
+        "organShortName": "Viglacera Tiên Sơn"
+    },
+    {
+        "organCode": "VKC",
+        "ticker": "VKC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần VKC Holdings",
+        "organShortName": "VKC Holdings"
+    },
+    {
+        "organCode": "VLA",
+        "ticker": "VLA",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "9537",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đầu tư và Phát triển Công nghệ Văn Lang",
+        "organShortName": "PT Công nghệ Văn Lang"
+    },
+    {
+        "organCode": "VMC",
+        "ticker": "VMC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2357",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần VIMECO",
+        "organShortName": "VIMECO"
+    },
+    {
+        "organCode": "VMDCO",
+        "ticker": "VMS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Phát triển Hàng Hải",
+        "organShortName": "Phát triển Hàng Hải"
+    },
+    {
+        "organCode": "VNC",
+        "ticker": "VNC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2791",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Tập đoàn Vinacontrol",
+        "organShortName": "VINACONTROL"
+    },
+    {
+        "organCode": "VNCT",
+        "ticker": "TMB",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "1771",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Kinh doanh Than Miền Bắc - Vinacomin",
+        "organShortName": "Than Miền Bắc - Vinacomin"
+    },
+    {
+        "organCode": "VNF",
+        "ticker": "VNF",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2779",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Vinafreight",
+        "organShortName": "VINAFREIGHT"
+    },
+    {
+        "organCode": "VNR",
+        "ticker": "VNR",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8538",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "BH",
+        "organName": "Tổng Công ty Cổ phần Tái bảo hiểm Quốc gia Việt Nam",
+        "organShortName": "Tái bảo hiểm Quốc gia"
+    },
+    {
+        "organCode": "VNT",
+        "ticker": "VNT",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2779",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Giao nhận Vận tải Ngoại Thương",
+        "organShortName": "Vận tải ngoại thương"
+    },
+    {
+        "organCode": "VOSA",
+        "ticker": "VSA",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2779",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Đại lý Hàng hải Việt Nam",
+        "organShortName": "Đại lý Hàng hải VN"
+    },
+    {
+        "organCode": "VRJSC",
+        "ticker": "VRE",
+        "comGroupCode": "VNINDEX",
+        "icbCode": "8633",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Vincom Retail",
+        "organShortName": "Vincom Retail"
+    },
+    {
+        "organCode": "VTC",
+        "ticker": "VTC",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "9578",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Viễn Thông VTC",
+        "organShortName": "Viễn thông VTC"
+    },
+    {
+        "organCode": "VTH",
+        "ticker": "VTH",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2733",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Dây cáp điện Việt Thái",
+        "organShortName": "Dây cáp điện Việt Thái"
+    },
+    {
+        "organCode": "VTJ",
+        "ticker": "VTJ",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3785",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Thương mại và Đầu tư VI NA TA BA",
+        "organShortName": "TM và Đầu tư VINATABA"
+    },
+    {
+        "organCode": "VTL",
+        "ticker": "VTL",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3535",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Vang Thăng Long",
+        "organShortName": "Vang Thăng Long"
+    },
+    {
+        "organCode": "VTV",
+        "ticker": "VTV",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Năng lượng và Môi trường VICEM",
+        "organShortName": "Năng lượng và Môi trường VICEM"
+    },
+    {
+        "organCode": "VVMI",
+        "ticker": "CLH",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Xi măng La Hiên VVMI",
+        "organShortName": "Xi măng La Hiên"
+    },
+    {
+        "organCode": "VXB",
+        "ticker": "VXB",
+        "comGroupCode": "UpcomIndex",
+        "icbCode": "2353",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Vật liệu xây dựng Bến Tre",
+        "organShortName": "VLXD Bến Tre"
+    },
+    {
+        "organCode": "WCS",
+        "ticker": "WCS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "2777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần Bến xe Miền Tây",
+        "organShortName": "Bến xe Miền Tây"
+    },
+    {
+        "organCode": "WSS",
+        "ticker": "WSS",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "8777",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CK",
+        "organName": "Công ty Cổ phần Chứng khoán Phố Wall",
+        "organShortName": "Chứng khoán Phố Wall"
+    },
+    {
+        "organCode": "X20",
+        "ticker": "X20",
+        "comGroupCode": "HNXIndex",
+        "icbCode": "3763",
+        "organTypeCode": "OTHER",
+        "comTypeCode": "CT",
+        "organName": "Công ty Cổ phần X20",
+        "organShortName": "May mặc X20"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "category": "Basic",
+        "type": 1
+    },
+    {
+        "category": "Pro",
+        "type": 2
+    },
+    {
+        "category": "Master",
+        "type": 3
+    }
+]
