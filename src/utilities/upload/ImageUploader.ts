@@ -91,8 +91,8 @@ const ImageUploaded = {
         const formData: any = new FormData();
         await formData.append('files', formatImage);
         const uri = await uploadImage(formData);
-        if (uri?.data?.length > 0) {
-            return uri?.data[0];
+        if (uri?.data?.path) {
+            return uri?.data?.path;
         }
         return null;
     },

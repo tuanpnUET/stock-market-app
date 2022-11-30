@@ -5,7 +5,7 @@ import TokenProvider from 'utilities/authenticate/TokenProvider';
 import { apiLogger } from 'utilities/logger';
 
 const request = axios.create({
-    baseURL: 'http://127.0.0.1:3000',
+    baseURL: 'https://stock-market-vn.herokuapp.com',
     timeout: 60000,
     headers: { Accept: '*/*' },
 });

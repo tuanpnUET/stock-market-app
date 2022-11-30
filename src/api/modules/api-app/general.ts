@@ -1,6 +1,6 @@
 import request from 'api/request';
 
-export const uploadImage = (formData: any): Promise<any> => request.post(`/v1/app/upload/image`, formData);
+export const uploadImage = (formData: any): Promise<any> => request.post(`/uploadImg`, formData);
 export const getAllCourse = (): Promise<any> => request.get(`/courses`);
 export const getAllCategory = (): Promise<any> => request.get(`/categories`);
 

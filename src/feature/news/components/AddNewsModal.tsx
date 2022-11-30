@@ -84,7 +84,7 @@ const AddNewsModal = (props: any) => {
                 formData.append('files', formatImage);
                 const temp1 = uploadImage(formData);
                 const newUrlImage = await temp1;
-                setUrlImage(newUrlImage?.data[0]);
+                setUrlImage(newUrlImage?.data?.path);
             }
         } else {
             props?.modal?.dismiss();
@@ -107,7 +107,7 @@ const AddNewsModal = (props: any) => {
                 formData.append('files', formatImage);
                 const temp1 = uploadImage(formData);
                 const newUrlImage = await temp1;
-                setUrlImage(newUrlImage?.data[0]);
+                setUrlImage(newUrlImage?.data?.path);
             }
         } else {
             props?.modal?.dismiss();
