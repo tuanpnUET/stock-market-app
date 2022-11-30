@@ -24,6 +24,7 @@
         "push-develop": "yarn push-ios-dev && yarn push-android-dev"
     },
     "dependencies": {
+        "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
         "@hookform/resolvers": "1.3.5",
         "@react-native-community/async-storage": "^1.12.0",
         "@react-native-community/cli-platform-android": "^9.2.1",

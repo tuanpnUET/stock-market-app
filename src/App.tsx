@@ -11,8 +11,10 @@ import { RootSiblingParent } from 'react-native-root-siblings';
 import APIProvider from 'utilities/context/APIProvider';
 import SplashScreen from 'react-native-splash-screen';
 import Toast from 'react-native-toast-message';
+import { enableScreens } from 'react-native-screens';
 
 LogBox.ignoreLogs(['Require cycle:']);
+enableScreens(false);
 
 const App: React.FunctionComponent = () => {
     useEffect(() => {
